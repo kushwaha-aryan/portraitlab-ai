@@ -1,5 +1,7 @@
 # PortraitLab AI
 
+**[Live demo](https://portraitlab-ai.onrender.com/)** - free tier on Render, so the first hit after idling can take ~50s to wake up.
+
 A polished AI professional photo generator. Upload a photo, pick a style
 (professional portrait, passport-style, LinkedIn, CV, or casual), customize
 clothing, background, lighting, and framing, then generate an edited portrait
